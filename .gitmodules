@@ -1,0 +1,3 @@
+[submodule "psmalloc"]
+	path = psmalloc
+	url = https://github.com/sqlumdash/psmalloc

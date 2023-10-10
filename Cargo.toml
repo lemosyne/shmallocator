@@ -1,0 +1,8 @@
+[package]
+name = "shmallocator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = "0.2.149"
+once_cell = "1.18.0"
